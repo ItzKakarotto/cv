@@ -1,2 +1,2 @@
 # cv
-CV?
+itzkakarotto.github.com/cv
