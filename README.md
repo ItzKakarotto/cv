@@ -1,2 +1,2 @@
 # cv
-itzkakarotto.github.com/cv
+https://itzkakarotto.github.com/cv
